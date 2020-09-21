@@ -5,17 +5,11 @@ Dragula is a javascript project that allows items in a container to be drag and 
 It is a simple project that was last updated 4 years ago and I think a project in a different language and working on a library rather than an application itself would be interesting to work on.  It allows multiple features and has very crisp designs and interaction with the user when dragging. 
 I would like to implement some features after learning the code with the class that have not been implemented yet in the source.
 
-To do : UML Graph to be added.
 
 ## Project Relevance
-This has relevance because it fulfills all three educational goals of our course:
-
-1. To do:  which broader topics are included in this project.
-
-2. Practical Experience - the javascript library is opensource in github so we can get practice on project managament through git version control.  
-We will be able to test this our changes to the javascript library but we would first need to find a template website page to test on.
-
-3. Experience working on open source - this was given as a simple beginner open source project in a list of github projects.  In my opinion, this is a very
+This has relevance because it fulfills the educational goals of our course:
+It has practical experience where we explore the javascript library which is opensource in github so we can get practice on project managament through git version control.  
+We will be able to test this our changes to the javascript library but we would first need to find a template website page to test on.  We also get experience working on open source - this was given as a simple beginner open source project in a list of github projects.  In my opinion, this is a very
 simple and good start to getting exposed to working with open source projects and implementing new features.  
 
 
